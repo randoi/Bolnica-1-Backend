@@ -24,4 +24,6 @@ To facilitate testing and exploration of our web app, we've provided the followi
   
 You can access the web app by clicking [here](http://bolnica-1.k8s.elab.rs/login).
 
+You can access the web apps specification by clicking [here](https://drive.google.com/file/d/1GQ6XQFwI6JZEONM6TOfuwhWMlLMZJde6/view?usp=sharing).
+
 
