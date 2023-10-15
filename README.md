@@ -1,5 +1,7 @@
 # Hospital-managment-app-backend
 
+This was a group project , and the biggest one, that my colleagues and I had within the subject called "Software engineering" at our faculty of Computer Science.
+
 To facilitate testing and exploration of our web app, we've provided the following demo user accounts. Feel free to use these credentials to access the app and experience its features:
 
 1. **Demo User 1**
